@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CescoDeviceExplorer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TEST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HostName=CescoIotHubTest.azure-devices.net;SharedAccessKeyName=iothubownerexplorer;SharedAccessKey=yvywtPcJDn96CrrnEGXhn3j0ukWUFiC7tWArsq8ZfWQ=</Value>
+    </Setting>
+    <Setting Name="DEV" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HostName=CESCOIotHubDev.azure-devices.net;SharedAccessKeyName=iothubownerexplorer;SharedAccessKey=t1xqcLY4DD9IdqEEr00yByhAHagcM/TYc2A7qcj6FFE=</Value>
+    </Setting>
+    <Setting Name="REAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HostName=CescoIotHub.azure-devices.net;SharedAccessKeyName=iothubownerexplorer;SharedAccessKey=BWbzZcvrs/b6zpPExrdElfg3x1Dbxwc78OYiwvQpElk=</Value>
+    </Setting>
+    <Setting Name="DeviceList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Azure\DeviceList.json</Value>
+    </Setting>
+    <Setting Name="LoggingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\AzureLog\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
